@@ -1,0 +1,51 @@
+# Keil µVision files
+*.uvopt
+*.uvproj
+*.uvgui.*
+*.axf
+*.map
+*.lst
+*.lnp
+*.bin
+*.hex
+*.build_log.htm
+*.crf
+*.d
+*.dep
+*.o
+*.obj
+Objects/
+Listings/
+
+# Build artifacts
+*.elf
+*.out
+*.exe
+
+# Debug files
+*.pdb
+*.idb
+*.ilk
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# SDK and library files (if copied locally)
+sdk/
+lib/
+
+# Configuration backups
+*.bak
+*.backup
