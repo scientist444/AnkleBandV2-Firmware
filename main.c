@@ -1,7 +1,7 @@
 /**
  * @file main.c
  * @brief Ankle Band V2 - Main Application
- * @author Your Name
+ * @author Muhammad Umer Sajid, Student
  * @date 2025
  */
 

@@ -154,6 +154,6 @@ __DA14531__
 ---
 
 **Version**: 2.0  
-**Author**: Your Name  
+**Author**: Muhammad Umer Sajid, Student  
 **Date**: 2025  
 **Target**: DA14531MOD-00F01002

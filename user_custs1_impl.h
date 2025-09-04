@@ -1,6 +1,7 @@
 /**
  * @file user_custs1_impl.h
  * @brief Custom BLE Service Implementation Header
+ * @author Muhammad Umer Sajid, Student
  */
 
 #ifndef USER_CUSTS1_IMPL_H_

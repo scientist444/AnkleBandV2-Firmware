@@ -1,6 +1,7 @@
 /**
  * @file user_custs1_impl.c
  * @brief Custom BLE Service Implementation
+ * @author Muhammad Umer Sajid, Student
  */
 
 #include <string.h>

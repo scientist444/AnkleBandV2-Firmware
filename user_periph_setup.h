@@ -1,6 +1,7 @@
 /**
  * @file user_periph_setup.h
  * @brief Peripheral setup configuration for Ankle Band V2
+ * @author Muhammad Umer Sajid, Student
  */
 
 #ifndef USER_PERIPH_SETUP_H_

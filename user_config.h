@@ -1,6 +1,7 @@
 /**
  * @file user_config.h
  * @brief User configuration for Ankle Band V2
+ * @author Muhammad Umer Sajid, Student
  */
 
 #ifndef USER_CONFIG_H_

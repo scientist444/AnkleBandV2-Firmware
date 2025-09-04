@@ -1,6 +1,7 @@
 /**
  * @file user_custs1_def.h
  * @brief Custom BLE Service Definition for Ankle Band V2
+ * @author Muhammad Umer Sajid, Student
  */
 
 #ifndef USER_CUSTS1_DEF_H_
